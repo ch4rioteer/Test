@@ -1,0 +1,8 @@
+INFO:root:Список ссылок:['https://github.com/labwc/labwc.git', 'https://github.com/labwc/labwc.git', 'https://github.com/yshui/picom.git']
+INFO:root:Обработка https://github.com/labwc/labwc.git, задействуется папка /home/ch4rioteer/Документы/Программирование/first-proj/first_part/labwc
+INFO:root:Загрузка
+INFO:root:Обработка https://github.com/labwc/labwc.git, задействуется папка /home/ch4rioteer/Документы/Программирование/first-proj/first_part/labwc
+INFO:root:Обновление
+INFO:root:Фиксация обновления в /home/ch4rioteer/Документы/Программирование/first-proj/first_part/labwc/labwc_changes.txt в 2023-11-24 16:10:22.395019
+INFO:root:Обработка https://github.com/yshui/picom.git, задействуется папка /home/ch4rioteer/Документы/Программирование/first-proj/first_part/picom
+INFO:root:Загрузка
